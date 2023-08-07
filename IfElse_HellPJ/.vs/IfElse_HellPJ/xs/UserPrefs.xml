@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{CD8B21CE-5A89-06C8-F653-0595D41CD929}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Manager.cs">
+    <Files>
+      <File FileName="Assets/Script/Manager.cs" Line="170" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IfElse_HellPJ" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5915eab8-2e9d-4776-b66d-2f3c45331308" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
